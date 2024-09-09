@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VolumeAreaCalc</string>
+    <string name="shape">Shape</string>
+    <string name="volume_calculator">Volume Calculator</string>
+    <string name="sphere_volume">Sphere Volume</string>
+    <string name="enter_the_radius_of_sphere">Enter the radius of Sphere</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_the_radius_of_cylinder">Enter the radius of Cylinder</string>
+    <string name="enter_the_height_of_cylinder">Enter the height of Cylinder</string>
+    <string name="cylinder_volume">Cylinder Volume</string>
+</resources>
